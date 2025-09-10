@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/MahmoudElsayed)
+[![](https://raw.githubusercontent.com/MahmoudElsayed/MahmoudElsayed/master/profile.gif)](https://github.com/MahmoudElsayed)
 
 # 👋 Hi, I'm Mahmoud Elsayed
 
@@ -51,7 +51,7 @@
 
 ### 📊 GitHub Stats
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=mahmoudelsayed&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite" /> 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudelsayed&layout=compact&hide_border=true&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=MahmoudElsayed&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite" /> 
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudElsayed&layout=compact&hide_border=true&theme=graywhite" />
 
 ---
